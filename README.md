@@ -1,5 +1,3 @@
-# nikki01
+# Team22ブログ
 
-Hugoサンプルサイト
-
-https://katzkawai.org/nikki01/
+https://kklab.mobi/team22/
