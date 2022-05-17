@@ -8,3 +8,7 @@ menu: "main"
 # このサイトについて
 
 このサイトはサンプルサイトです。テンプレートとして使ってください。
+
+## ブログレポジトリ
+
+- https://github.com/kkawailab/blogTeam22
