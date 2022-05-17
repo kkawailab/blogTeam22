@@ -11,4 +11,4 @@ https://github.com/kkawailab/blogTeam22/tree/main/content/posts
 
 以下のディレクトリにマークダウンファイルを作成してください。
 
-https://github.com/kkawailab/blogTeam2/tree/main/content
+https://github.com/kkawailab/blogTeam22/tree/main/content
