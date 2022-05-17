@@ -1,3 +1,3 @@
 # Team22ブログ
 
-https://kklab.mobi/team22/
+https://kklab.mobi/blogTeam22/
