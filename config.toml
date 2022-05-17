@@ -1,6 +1,6 @@
-baseURL = 'https://katzkawai.org/nikki01/'
+baseURL = 'https://kklab.mobi/blogTeam22/'
 languageCode = 'ja-JP'
-title = 'わたしのサイト'
+title = 'Team22 Blog'
 theme = "ananke"
 canonifyurls = true
 publishDir = "docs"
