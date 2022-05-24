@@ -1,5 +1,5 @@
 ---
-title: "My 8th Post"
+title: "きょうすけの投稿"
 date: 2022-04-23T15:13:29+09:00
 draft: false
 ---
