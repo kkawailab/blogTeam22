@@ -25,9 +25,11 @@ draft: false
 コーヒーはとてもおいしく、コーヒーとホイップの苦さと甘さのバランスが良かったですが、量のバランス的にホイップが残ってしました。
 カフェオレは頼みませんでしたが、他のお客さんが頼んで、実演しているところを見れたので良かったです。美味しかったうえに、メニューも多く楽しいと思うので
 ぜひ行ってみてください。
-![カツサンド]("C:\Users\kyosu\Pictures\17486.jpg")![ウインナーコーヒー](https://github.com/kkawailab/blogTeam22/raw/main/content/jpg/17484.jpg) ![天空カフェオレ落とし]("C:\Users\kyosu\Pictures\17500.jpg")
+![カツサンド](https://github.com/kkawailab/blogTeam22/blob/main/content/jpg/17486.jpg)
+![ウインナーコーヒー](https://github.com/kkawailab/blogTeam22/raw/main/content/jpg/17484.jpg) 
+![天空カフェオレ落とし]("C:\Users\kyosu\Pictures\17500.jpg")
 
-・[喫茶ツヅキ](https://goo.gl/maps/k6LPzVmPFEiReQJA7)
+・[喫茶ツヅキ](https://goo.gl/maps/k6LPzVmPFEiReQJA7)　愛知県 名古屋市中村区 太閤通 6-1 ツヅキビル2Ｆ
 
 
 
