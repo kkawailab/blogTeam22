@@ -25,7 +25,7 @@ draft: false
 コーヒーはとてもおいしく、コーヒーとホイップの苦さと甘さのバランスが良かったですが、量のバランス的にホイップが残ってしました。
 カフェオレは頼みませんでしたが、他のお客さんが頼んで、実演しているところを見れたので良かったです。美味しかったうえに、メニューも多く楽しいと思うので
 ぜひ行ってみてください。
-![カツサンド]（"C:\Users\kyosu\Pictures\17486.jpg"） ![ウインナーコーヒー]("C:\Users\kyosu\Pictures\17484.jpg") ![天空カフェオレ落とし]("C:\Users\kyosu\Pictures\17500.jpg")
+![カツサンド]("C:\Users\kyosu\Pictures\17486.jpg")![ウインナーコーヒー]("C:\Users\kyosu\Pictures\17484.jpg") ![天空カフェオレ落とし]("C:\Users\kyosu\Pictures\17500.jpg")
 
 ・[喫茶ツヅキ](https://goo.gl/maps/k6LPzVmPFEiReQJA7)
 
